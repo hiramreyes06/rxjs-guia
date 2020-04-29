@@ -65,4 +65,4 @@ from(numreos).pipe(
 
     estado$.subscribe(
         estado => console.log(estado)
-    )
+    );
